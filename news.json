@@ -1,0 +1,56 @@
+{"status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "All the news from OpenAI’s first developer conference",
+            "description": "OpenAI, the creator of ChatGPT and Dall-E, is announcing new products and updates at its first developer conference, OpenAI DevDay. We’ll be covering it live. Look for news on ChatGPT 4, a custom GPT creator, and more.",
+            "url": "https://www.theverge.com/2023/11/6/23948619/openai-chatgpt-devday-developer-conference-news",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/eJCf-0eN-BMvuoNTj_0k-ImYauY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390408/STK149_AI_01.jpg",
+            "publishedAt": "2023-11-06T17:30:00Z",
+            "content": "It has been almost a year since OpenAI released ChatGPT to the public, kicking off the generative AI boom that has quickly reshaped the tech industry.\r\nSince then, OpenAI has been racing to maintain … [+1296 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "Cities: Skylines II developer delays DLC to to focus on fixing the base game",
+            "description": "Cities: Skylines II developer Colossal Order is delaying the city building simulation’s expansion roadmap. After numerous complaints about the PC game’s performance (and the delay of console versions until 2024), the team decided to pause rapid patches, diggi…",
+            "url": "https://www.engadget.com/cities-skylines-ii-developer-delays-dlc-to-to-focus-on-fixing-the-base-game-180702925.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X0k61VmOMxnD5x78d2lGsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/4d59d970-8896-11ee-bff5-a35bfa367a20",
+            "publishedAt": "2023-11-21T18:07:02Z",
+            "content": "Cities: Skylines II developer Colossal Order is delaying the city building simulations expansion roadmap. After numerous complaints about the PC games performance (and the delay of console versions u… [+2259 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model",
+            "description": "Sam Altman, CEO of OpenAI, announced a new model for ChatGPT at the company’s developer conference.",
+            "url": "https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/",
+            "urlToImage": "https://media.wired.com/photos/654a71357d280188fd69f07e/191:100/w_1280,c_limit/OpenAI-GPT4-Updates-Business-1436010616.jpg",
+            "publishedAt": "2023-11-07T18:36:30Z",
+            "content": "OpenAI recently announced multiple new features for ChatGPT and other artificial intelligence tools during its recent developer conference. The upcoming launch of a creator tool for chatbots, called … [+3267 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Reddit is starting to test its own add-ons for the platform",
+            "description": "Reddit is beginning to test the first of its own add-ons built through its Developer Platform, including tools for mods and posts that are live scoreboards.",
+            "url": "https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XK89Z8iUT2qagVhFK6REkJj4Syg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985507/acastro_STK024_03.jpg",
+            "publishedAt": "2023-11-07T20:00:00Z",
+            "content": "Reddit is starting to test its own add-ons for the platform\r\nReddit is starting to test its own add-ons for the platform\r\n / The new tools will help mods and let people make posts with live scoreboar… [+2636 chars]"
+        }]
+}
