@@ -1,9 +1,10 @@
 import React, { Component } from "react";
+// import PropTypes from 'prop-types';
 
 export class Navbar extends Component {
   static propTypes = {};
-
-  render() {
+  render() 
+  {
     return (
       <nav className="navbar bg-body-tertiary fixed-top">
         <div className="container-fluid">
@@ -50,6 +51,17 @@ export class Navbar extends Component {
                   </a>
                 </li>
               </ul>
+              <div class="form-check form-switch">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  role="switch"
+                  id="flexSwitchCheckChecked"
+                />
+                <label class="form-check-label" for="flexSwitchCheckChecked">
+                  Dark Mode
+                </label>
+              </div>
             </div>
           </div>
         </div>
